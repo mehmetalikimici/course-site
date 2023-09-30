@@ -7,4 +7,4 @@
 </ul>
 <h2>Screen</h2>
 
-![gif](https://github.com/mehmetalikimici/Bs-Landing/assets/115737497/cfd71bdc-8fdb-4649-ac1e-93cfa65af7e5)
+![gif](https://github.com/mehmetalikimici/Bs-Landing/assets/115737497/9daaccf1-1aec-40c0-bba4-03e7a65df886)
